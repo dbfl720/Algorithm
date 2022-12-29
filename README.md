@@ -1,2 +1,2 @@
 # Algorithm
-Practice_Algorithm
+ - Marondal Algorithm 
